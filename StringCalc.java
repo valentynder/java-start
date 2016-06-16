@@ -10,7 +10,6 @@ public class StringCalc {
         Scanner sc= new Scanner(System.in);
         System.out.println("Enter the action like x#y:");
         String s1=sc.nextLine();
-        //System.out.println("You printed:"+s1);
         char i1 = s1.charAt(0);
         char i2 = s1.charAt(1);
         char i3 = s1.charAt(2);
